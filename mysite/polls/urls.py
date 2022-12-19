@@ -2,6 +2,7 @@ from django.urls import path, re_path
 
 from . import views
 
+app_name = 'polls'
 urlpatterns = [
     # example: /polls/
     path('', views.index, name='index'),
