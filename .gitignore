@@ -131,9 +131,3 @@ dmypy.json
 
 # IDEA
 .idea/
-
-# Text backup files
-*.bak
-
-# Database
-*.sqlite3
